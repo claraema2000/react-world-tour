@@ -1,0 +1,20 @@
+.country{
+    border: 2px solid slateblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+.going-country{
+    background-color: gray;
+}
+.going-btn{
+    padding: 5px 10px;
+    background-color: palevioletred;
+    margin-top: 10px;
+}
+.visited-btn{
+    padding: 5px 10px;
+    background-color: darkgray;
+    margin-top: 10px;
+}
